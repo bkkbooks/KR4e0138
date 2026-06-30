@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0138/WYG/v1/juan/21
+seq: 21
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0138_WYG_021-1a, image: WYG1258/WYG1258-0225a.png}
+body:
+  text: 容春堂後集目錄卷一雜著卷二記碑銘巻三序引卷四墓誌銘卷五墓誌銘巻六碣石表俟歸銘塔銘墓碣銘巻七神道碑銘墓碑銘墓表傳巻八祝文祭文巻九辭古樂府古詩歌行禽言卷十五言絶句五言律五言排律卷十一七言絶句巻十二七言律巻十三七言律七言排律詞巻十四書簡
+  hash: sha256:29d6e53abbba87b82f5806176e578c8e8b9d55cb0af247140ecc39d63a3681fb
+metadata:
+  title: 容春堂集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:21:46.108760'
+  juan_title: 後集目録
+  source:
+    repository: kanripo
+    path: KR4e0138/KR4e0138_021.txt
+hash: sha256:31f6f9c5946389975d2ed04f8c85da1f0a7d1891326337bb0f3909f6a61df35b

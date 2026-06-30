@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0138/krp/v1/juan/55
+seq: 55
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0138_WYG_055-1a, image: WYG1258/WYG1258-0722a.png}
+body:
+  text: 容春堂别集目録卷一辭古詩卷二古詩卷三五言律五言排律詞卷四七言絶七言律卷五序卷六記卷七墓志銘壙銘卷八墓表碣銘傳行狀卷九雜著
+  hash: sha256:42f9260642f76cd619b2cb1c7d8901766aabcfc34b76f5690847b687a828143f
+metadata:
+  title: 容春堂集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:21:46.108760'
+  juan_title: 别集目錄
+  source:
+    repository: kanripo
+    path: KR4e0138/KR4e0138_055.txt
+hash: sha256:46f3c0820a16dea4c7a3e7b594ae6aa23494198f2d08d47344c8104dbe9e3161
