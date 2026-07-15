@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4e0138_WYG_036-1a, image: WYG1258/WYG1258-0400a.png}
 body:
-  text: 容春堂續集目錄巻一辭賦古詩歌行巻二五言律五言排律五言絶句卷三七言律巻四七言律巻五七言絶句卷六奏議卷七奏疏卷八雜著卷九雜著卷十記巻十一記卷十二序巻十三墓表巻十四傳狀碑巻十五墓誌銘卷十六墓誌銘巻十七書簡卷十八祭文
-  hash: sha256:894933659face5452a703680d48e5845e26d65a07bc9d07f2fa271f7e9a554da
+  text: 容春堂續集目録卷一辭賦古詩歌行卷二五言律五言排律五言絶句卷三七言律卷四七言律卷五七言絶句卷六奏議卷七奏疏卷八雜著卷九雜著卷十記卷十一記卷十二序卷十三墓表卷十四傳狀碑卷十五墓志銘卷十六墓志銘卷十七書簡卷十八祭文
+  hash: sha256:566a303717371b667154487810d4a1cb5af23960d4006875d6c3849c41aac01e
 metadata:
   title: 容春堂集
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4e0138/KR4e0138_036.txt
-hash: sha256:327fcf2b4a94f1a6e2a8bebce116c29062b488be80dfa17347b158c64d1f29ab
+hash: sha256:e7f9b126c3d65d9a5b45dd0315bce3bb6618efb9d0b88b1210da8fecb0d4e144
